@@ -1,4 +1,4 @@
-Test 📫
+Currently working on: ANSIJSON 0.3 release, due to my other personal project's advancements 
 
 <!--
 **ChesterOfTheSemester/ChesterOfTheSemester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
