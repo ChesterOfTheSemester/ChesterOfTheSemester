@@ -1,3 +1,7 @@
+ROY KAMPHUIS
+ALS JOUW VADER DOOD GAAT, REKEN ER MAAR OP DAT IK JE LEKKER KOM UITLACHEN EN PESTEN
+
+
 Currently working on:
 ANSIJSON 0.3 release, due to my other personal project's advancements 
 
